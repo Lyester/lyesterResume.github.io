@@ -1,0 +1,53 @@
+h3{
+	margin: auto;
+	width: 50%;
+	color: Black;
+	font-size: 30px;
+	font-family: 'Covered By Your Grace', sans-serif;
+}
+ul{
+	 margin: 0 auto;
+  padding: 0;
+  width: 50%;
+
+	color: White;
+  line-height: 32px;
+  font-family: 'Raleway', sans-serif;
+  font-size: 20px;
+  font-weight: 100;
+}
+}
+.header {
+  background-image: url(https://images.unsplash.com/photo-1455267847942-f4fdb784f0c5?dpr=1&auto=format&crop=entropy&fit=crop&w=1500&h=1000&q=80&cs=tinysrgb);
+  height: 400px;
+  background-position: center center;
+}
+body{
+	background-color: Gray;
+	background-image: 
+	background-image: url(https://images.unsplash.com/photo-1455267847942-f4fdb784f0c5?dpr=1&auto=format&crop=entropy&fit=crop&w=1500&h=1000&q=80&cs=tinysrgb);
+  height: 400px;
+  background-position: center center;
+}
+p{
+	margin: auto;
+	width: 50%;
+	color:white;
+  line-height: 32px;
+font-family: 'Raleway', sans-serif;
+  font-size: 20px;
+  font-weight: 100;
+}
+}
+}
+li{
+	 border-bottom: 1px solid #E4BB97;
+  list-style: none;
+  margin: 100px 0px;
+  padding-bottom: 60px;
+}
+image{
+	margin: Auto;
+	width: 10%;
+	position:right;
+}
